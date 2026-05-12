@@ -1,6 +1,3 @@
-# paste this into .gitignore
-cat > .gitignore << EOF
-.env
 data/
 __pycache__/
 *.pyc
